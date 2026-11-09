@@ -1,0 +1,7 @@
+streamlit
+anthropic
+genanki
+pypdf
+python-docx
+python-pptx
+pandas
